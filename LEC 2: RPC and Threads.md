@@ -1,9 +1,9 @@
 # 6.824 2022 Lecture 2: Infrastructure: RPC and threads
 > **TXT**: https://pdos.csail.mit.edu/6.824/notes/l-rpc.txt
-> + crawler.go: https://pdos.csail.mit.edu/6.824/notes/crawler.go  
-> + kv.go: https://pdos.csail.mit.edu/6.824/notes/kv.go
-> + vote examples: https://pdos.csail.mit.edu/6.824/notes/condvar.tar.gz
-> **Video**: https://youtu.be/oZR76REwSyA
+>  + crawler.go: https://pdos.csail.mit.edu/6.824/notes/crawler.go  
+>  + kv.go: https://pdos.csail.mit.edu/6.824/notes/kv.go
+>  + vote examples: https://pdos.csail.mit.edu/6.824/notes/condvar.tar.gz  
+> **Video**: https://youtu.be/oZR76REwSyA  
 > **Preparetion**: Do http://tour.golang.org/, FAQ: https://pdos.csail.mit.edu/6.824/papers/tour-faq.txt, Questions: https://pdos.csail.mit.edu/6.824/questions.html?q=q-gointro&lec=2
 
 Today:
